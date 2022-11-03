@@ -125,7 +125,7 @@ header.fixed #logo {
 
 #top {
   width: 100%;
-  background: url("img/topback.jpg");
+  background: url("topback.jpg");
   background-blend-mode: multiply;
   background-color: #343434;
   background-size: cover;
