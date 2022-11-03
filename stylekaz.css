@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css?family=Roboto|Suez+One');
 
 * {
@@ -107,7 +108,7 @@ header.fixed #logo {
 .fixed #about a:hover {color: #7c7c7c}
 
 #ru {
-    padding: 40px ;
+    padding: 90px ;
 }
 #ru > a {
     background-color: #ff152a;
@@ -167,6 +168,10 @@ header.fixed #logo {
 
 #top h3 {
   color: #ccc;
+}
+#top h4 {
+    color: #ccc;
+    margin-top: 59vh;
 }
 
 /* Блок с возможностями */
