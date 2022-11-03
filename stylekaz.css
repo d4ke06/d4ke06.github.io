@@ -182,6 +182,7 @@ header.fixed #logo {
   border-top: 2px solid silver;
   color: #484848;
   font-size: 1.3em;
+
 }
 
 @media (min-width: 1401px) {
